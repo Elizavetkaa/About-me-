@@ -1,0 +1,49 @@
+body {
+    background-color: lightpink;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+body {
+    border: 5px solid purple;
+    border-radius: 20px;
+}
+
+section {
+    border: 5px dashed lightblue;
+    font-size: 24px;
+    text-align: center;
+}
+
+h1,
+h2 {
+    color: brown;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: overline;
+    font-size: 18px;
+}
+
+aside {
+    border: 5px solid purple;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.lighter {
+    font-size: lighter;
+}
